@@ -606,5 +606,5 @@ client.on('ready', async () => {
     } */
 })
 
-client.login('OTE2NTA0MTAwNDcwOTQ3ODkw.YarG9Q.hoL9dpmRVzZRs5WIDpQWYdkqJOY')
+client.login('bot-token')
 
